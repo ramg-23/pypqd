@@ -1,6 +1,7 @@
 numpy
 matplotlib
 pandas
+jupyter
 pypqd
 myst-nb
 sphinx
