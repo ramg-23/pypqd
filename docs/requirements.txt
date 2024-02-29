@@ -1,3 +1,5 @@
+numpy
+matplotlib
 myst-nb
 sphinx
 sphinx-autoapi
