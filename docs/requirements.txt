@@ -1,0 +1,4 @@
+myst-nb
+sphinx
+sphinx-autoapi
+sphinx-rtd-theme
