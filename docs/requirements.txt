@@ -1,5 +1,7 @@
 numpy
 matplotlib
+pandas
+pypqd
 myst-nb
 sphinx
 sphinx-autoapi
